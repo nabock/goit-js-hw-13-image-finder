@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dukadima.github.io/goit-js-hw-13-image-finder/",
+  "homepage": "https://nabock.github.io/goit-js-hw-13-image-finder/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-13-image-finder/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/nabock/goit-js-hw-13-image-finder"
   },
   "keywords": [],
   "author": "Serhii Nabok <s.nabock@gmail.com>",
