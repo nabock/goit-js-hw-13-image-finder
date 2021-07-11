@@ -1,7 +1,12 @@
 .images-body {
   text-align: center;
-  padding: 200px;
-  background-color: rgb(225, 207, 187);
+  padding:100px;
+  // background-image: url(../images/bcg_lens.jpg);
+  background: url(../images/bcg.jpg) no-repeat;
+  -moz-background-size:100%;
+  -webkit-background-size:100%;
+  -o-background-size:100%;
+  background-size:100%;
 }
 .wrapper {
   display: flex;

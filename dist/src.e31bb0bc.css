@@ -5,8 +5,12 @@
  */
 .images-body {
   text-align: center;
-  padding: 200px;
-  background-color: #e1cfbb;
+  padding: 100px;
+  background: url(/bcg.2ac01823.jpg) no-repeat;
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
 }
 
 .wrapper {
